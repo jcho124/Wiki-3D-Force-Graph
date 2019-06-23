@@ -1,6 +1,6 @@
 # Wiki-3D-force-graph
 
-##Note
+## Note
 Due to NASA's export control policy, no codes are available for external use.
 
 ## Project Purpose
@@ -19,7 +19,7 @@ For phase I, what we've decided is useful to deploy for others, and not just liv
 ![Treemap for Navigation](images/force(3).gif)
 ![Treemap Clustering for 2D-force-graph](images/force(4).gif)
 ![Matrix Representation of Wiki](images/force(7).gif)
-
+![More Demo](images/force(8).gif)
 ## Architecture
  
 MediaWiki Wiki architecture allow us to extract a large amount of information about the pages, their categories, their properties, and links between them via either direct calls to the mysql database or API calls. This project basically extract data about pages and the links between pages as jsons, processes those jsons into a form useful for what we want to see, and then visualizes the information in a form we think is useful.
